@@ -1,3 +1,4 @@
+
 # PolicyPilot AI
 
 PolicyPilot AI is an AI-powered assistant that recommends government schemes based on a user's profile and questions.
@@ -62,3 +63,7 @@ PM Fasal Bima Yojana
 - Larger policy dataset
 - Deployment to cloud
 - Advanced agent orchestration
+=======
+# PolicyPilot-AI
+AI-powered government policy recommendation system using RAG, embeddings, and multi-agent architecture.
+
