@@ -1,0 +1,42 @@
+![Image](https://static.pw.live/5eb393ee95fab7468a79d189/GLOBAL_CMS_BLOGS/462bd10f-3be5-451b-b746-79546cebc96d.png)
+
+![Image](https://pbs.twimg.com/media/Eu9qYYUVEAAYir3.jpg)
+
+![Image](https://akm-img-a-in.tosshub.com/indiatoday/images/story/201902/Modi_Reuters__19_.jpeg?VersionId=LLKrLV82XlCR7JwqmHGsVnOKDe0ai73g\&size=690%3A388)
+
+![Image](https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/02/24/Pictures/pmkisan-modi-scheme-the-launch-of-the_65831e32-3853-11e9-85ab-b5c6484f4b61.jpg)
+
+![Image](https://media.assettype.com/thequint/2019-02/81a1e007-1f1f-4726-8806-2519281f0d49/24021_pti2_24_2019_000085b.jpg?auto=format%2Ccompress\&dpr=1.0\&fmt=webp\&format=webp\&h=900\&w=1200)
+
+## Pradhan Mantri Kisan Samman Nidhi
+
+Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a central sector scheme launched by the Government of India in December 2018 to provide direct income support to landholding farmer families. Fully funded by the central government, it is among India’s largest direct benefit transfer (DBT) programs aimed at improving farmers’ financial stability and agricultural productivity.
+
+Key facts
+
+* **Launch date:** February 24, 2019 (effective from December 1, 2018)
+* **Implementing body:** Ministry of Agriculture and Farmers Welfare
+* **Annual benefit:** ₹6,000 per eligible family
+* **Payment frequency:** Three equal instalments of ₹2,000 every four months
+* **Beneficiaries (2025):** Over 11 crore farmer families
+
+Objective and scope
+
+PM-KISAN was introduced to supplement the income of small and marginal farmers and ensure timely procurement of agricultural inputs such as seeds, fertilizers, and equipment. Initially restricted to families owning up to two hectares of cultivable land, its scope was later expanded to include all landholding farmers, subject to specific exclusion criteria. The scheme covers the entire country, providing uniform benefits irrespective of state boundaries. ([Digital India][1])
+
+Eligibility and exclusions
+
+Eligible beneficiaries are landholding farmer families—defined as a husband, wife, and minor children—whose names appear in land records. Excluded categories include institutional landholders, income-tax payers, serving or retired government employees (except Group D staff), professionals such as doctors or engineers, and holders of constitutional or elected posts. States and Union Territories verify beneficiaries based on land ownership data before enrolment. ([PM Yojana][2])
+
+Implementation and digital delivery
+
+The scheme operates entirely through the Direct Benefit Transfer mechanism. Funds are sent electronically into Aadhaar-seeded bank accounts, reducing leakage and delays. Beneficiaries must complete e-KYC verification to continue receiving payments. The Department of Agriculture and Farmers Welfare maintains the national PM-KISAN portal, and applications can be made online or via Common Service Centers (CSCs). ([Govt Schemes India][3])
+
+Impact
+
+By 2025, PM-KISAN had disbursed over ₹3.7 lakh crore to more than 11 crore farmers. The steady income flow has reduced reliance on informal credit, improved liquidity for seasonal farm operations, and contributed to rural consumption and welfare. It remains a cornerstone of India’s farm income support policies. ([The Economic Times][4])
+
+[1]: https://www.digitalindia.gov.in/initiative/pm-kisan/?utm_source=chatgpt.com "Pradhan Mantri Kisan Samman Nidhi (PM Kisan) - Digital India | Leading the transformation in India for ease of living and digital economy | MeitY, Government of India"
+[2]: https://www.pm-yojana.in/en/pm-kisan-pradhan-mantri-kisan-samman-nidhi-scheme?utm_source=chatgpt.com "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) Scheme - PM Yojana"
+[3]: https://www.govtschemes.in/mr/node/26?utm_source=chatgpt.com "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) | Govt Schemes India"
+[4]: https://economictimes.indiatimes.com/wealth/pm-kisan-scheme?utm_source=chatgpt.com "PM Kisan Scheme: Pradhan Mantri Kisan Samman Nidhi Yojana details"

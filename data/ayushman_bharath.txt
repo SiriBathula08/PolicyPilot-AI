@@ -1,0 +1,42 @@
+![Image](https://upload.wikimedia.org/wikipedia/en/1/1a/Ayushman_Bharat_logo.png)
+
+![Image](https://pbs.twimg.com/media/FQcYaX9aIAEBF3z.jpg)
+
+![Image](https://img.etimg.com/thumb/width-1600%2Cheight-900%2Cimgsize-907450%2Cresizemode-75%2Cmsid-113319260/industry/healthcare/biotech/healthcare/ayushman-bharat-enrollment-to-start-in-a-week-check-eligibility-and-application-details.jpg)
+
+![Image](https://www.orfonline.org/public/uploads/posts/image/1759307621_img-ayushman-vay-vandana.jpg)
+
+![Image](https://cdn.zeebiz.com/sites/default/files/2024/12/17/338974-pmjay-cover-image.jpg)
+
+## Ayushman Bharat
+
+Ayushman Bharat is a flagship health insurance and welfare program of the Government of India launched in 2018 to advance universal health coverage. It provides financial protection for secondary and tertiary healthcare while strengthening primary care infrastructure nationwide. The scheme is among the world’s largest publicly funded health assurance initiatives, targeting India’s poor and vulnerable populations. ([India Brand Equity Foundation][1])
+
+### Key facts
+
+* **Launch year:** 2018
+* **Implementing body:** Ministry of Health and Family Welfare, Government of India
+* **Health cover:** ₹5 lakh per family per year
+* **Beneficiaries:** ~12 crore families (about 55 crore people)
+* **Main components:** Health and Wellness Centres; Pradhan Mantri Jan Arogya Yojana (PM-JAY)
+
+### Components and structure
+
+Ayushman Bharat operates through two integrated pillars. The **Health and Wellness Centres (HWCs)** deliver comprehensive primary health care by upgrading about 1.5 lakh sub-centres and primary health centres, offering preventive, promotive, and curative services close to communities. The **Pradhan Mantri Jan Arogya Yojana** provides insurance-based coverage of up to ₹5 lakh per family annually for hospitalization in empanelled public or private hospitals, with no limit on family size, age, or gender. ([diphumch.assam.gov.in][2])
+
+### Coverage and eligibility
+
+Beneficiaries are identified using the Socio-Economic and Caste Census 2011 criteria covering deprivation and occupation indicators in rural and urban areas. The scheme’s benefits are portable across India, allowing cashless treatment at any empanelled facility. As of 2025, over 40 crore Ayushman cards have been issued and more than 8.5 crore hospital admissions authorized. ([India Brand Equity Foundation][1])
+
+### Governance and implementation
+Ayushman Bharat
+
+The National Health Authority oversees implementation through State Health Agencies. Funding is shared between central and state governments. The **Ayushman Bharat Digital Mission (ABDM)** further integrates digital health records and Ayushman Bharat Health Accounts (ABHA), promoting continuity of care and system efficiency. ([India Brand Equity Foundation][3])
+
+### Impact and recent developments
+
+Ayushman Bharat has reduced out-of-pocket health spending, expanded hospital access, and improved financial risk protection for low-income families. In 2024, eligibility was extended to all citizens aged 70 and above regardless of income, reinforcing its goal of inclusive and equitable healthcare access. ([India Brand Equity Foundation][3])
+
+[1]: https://ibef.org/government-schemes/ayushman-bharat?utm_source=chatgpt.com "Ayushman Bharat – Universal Healthcare Scheme & Key Initiatives"
+[2]: https://diphumch.assam.gov.in/scheme-page/ayushman-bharat?utm_source=chatgpt.com "Ayushman Bharat | Diphu Medical College & Hospital | Government of Assam, India"
+[3]: https://www.ibef.org/government-schemes/ayushman-bharat?utm_source=chatgpt.com "Ayushman Bharat – Universal Healthcare Scheme & Key Initiatives"
