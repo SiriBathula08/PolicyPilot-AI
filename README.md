@@ -1,4 +1,3 @@
-https://your-streamlit-app-link
 # PolicyPilot AI — Government Scheme Recommendation System
 
 ## Overview
